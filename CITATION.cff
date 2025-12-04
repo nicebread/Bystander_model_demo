@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Bystander Effect: A formal model'
+message: >-
+  If you refer to this model, please cite it using the
+  metadata from this file. This theory has not been peer
+  reviewed yet.
+type: software
+authors:
+  - given-names: Felix
+    family-names: Schönbrodt
+    email: felix.schoenbrodt@psy.lmu.de
+    orcid: 'https://orcid.org/0000-0002-8282-3910'
+    affiliation: Ludwig-Maximilians-Universität München
+repository-code: 'https://github.com/nicebread/FOMO-Psy'
+abstract: >-
+  A formal model that explains why the probability of
+  helping behavior decreases with an increasing number
+  of passive bystanders.
+keywords:
+  - fairtheory
+  - formal theory
+  - bystander effect
+license: CC-BY-4.0
+version: 0.2.0
+date-released: '2025-12-03'

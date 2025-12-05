@@ -1,7 +1,8 @@
-source("functions.R")
+# load the functions. The path must be relative to the top folder
+source("simulation/01-functions.R")
 
 # ==============================================================================
-# Testing the functions
+# Testing the functions - do they work in a vectorized way?
 
 # Note: As the helping behavior is probabilistic, repeated calls of this
 # function will yield different results!
